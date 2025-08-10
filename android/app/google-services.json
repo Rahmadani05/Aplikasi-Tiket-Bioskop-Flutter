@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181071333515",
+    "project_id": "tad-id",
+    "storage_bucket": "tad-id.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181071333515:android:2ecb2df6fecc05661cac8e",
+        "android_client_info": {
+          "package_name": "com.example.eas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZChiXzfgZWzYLZ1E6_3iIzcnDvqAV3fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
