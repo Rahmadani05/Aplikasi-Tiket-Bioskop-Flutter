@@ -1,4 +1,4 @@
-# eas
+# Aplikasi Pemesanan Tiket Bioskop
 
 A new Flutter project.
 
