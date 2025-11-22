@@ -3,8 +3,8 @@
 ## Screenshots
 
 ![preview img](/preview1.png)
-![preview img](/preview2.png)
-![preview img](/preview3.png)
+![preview img](/preview2.jpg)
+![preview img](/preview3.jpg)
 
 A new Flutter project.
 
