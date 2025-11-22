@@ -1,5 +1,11 @@
 # Aplikasi Pemesanan Tiket Bioskop
 
+## Screenshots
+
+![preview img](/preview1.png)
+![preview img](/preview2.png)
+![preview img](/preview3.png)
+
 A new Flutter project.
 
 ## Getting Started
